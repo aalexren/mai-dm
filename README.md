@@ -13,10 +13,13 @@ $ python3 -m venv env && source env/bin/activate && pip install -r requirements.
 
 ### Пример работы
 Граф, который надо задать в программе
+
 ![](report/images/sample-2_1.png)
 
 Введение соответствующих данных. Чтобы появилось поле ввода надо задать размеры и нажать "Задать граф".
+
 ![](report/images/sample-2_3.png)
 
 Результат после нажатия на "Раскрасить граф"
+
 ![](report/images/sample-2_2.png)
